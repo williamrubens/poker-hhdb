@@ -4,3 +4,7 @@
 .project
 
 *.class
+target
+.idea
+.idea.old
+.DS_store
